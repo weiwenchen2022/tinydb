@@ -1,5 +1,5 @@
 [package]
-name = "tinydb"
+name = "tiny-db"
 version = "0.1.0"
 edition = "2021"
 description = "A tiny database and accompanying protocol"
